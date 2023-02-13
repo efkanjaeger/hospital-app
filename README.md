@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+<h2>React Hospital Automation App</h2>
+
+![2023-02-13 19-00-05](https://user-images.githubusercontent.com/108582184/218509825-280616c6-40cd-409e-828b-3c8d16cdf53b.gif)
+
+
+A react automation app made with React with Redux , Axios.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
